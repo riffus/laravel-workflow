@@ -1,5 +1,5 @@
 {
-    "name": "brexis/laravel-workflow",
+    "name": "riffus/laravel-workflow",
     "description": "Integerate Symfony Workflow component into Laravel.",
     "keywords": ["workflow", "symfony", "laravel", "laravel5"],
     "license": "MIT",
